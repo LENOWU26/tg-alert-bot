@@ -2,3 +2,4 @@
 2024-01-03 first commit
 2024-05-22 refactor parser
 2024-07-28 guard against None
+2025-07-14 handle empty response
