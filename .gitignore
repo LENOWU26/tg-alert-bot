@@ -1,2 +1,3 @@
 2024-07-28 backoff on failure
 2024-10-07 readme
+2025-07-14 guard against None
