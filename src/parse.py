@@ -2,3 +2,4 @@
 2024-04-08 split the fetcher out
 2024-05-02 small perf pass
 2024-09-28 typo
+2025-07-14 add retry on 429
