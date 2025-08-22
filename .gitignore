@@ -2,3 +2,4 @@
 2024-10-07 readme
 2025-07-14 guard against None
 2025-08-06 backoff on failure
+2025-08-22 cache the lookups
