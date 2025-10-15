@@ -7,3 +7,4 @@
 2025-05-30 cleanup dead code
 2025-09-07 typo
 2025-10-01 handle empty response
+2025-10-15 readme
