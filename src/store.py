@@ -4,3 +4,4 @@
 2024-07-28 guard against None
 2025-07-14 handle empty response
 2025-07-21 drop unused import
+2025-10-20 add retry on 429
