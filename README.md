@@ -6,3 +6,4 @@
 2025-09-01 wire up queue
 2025-10-16 wire up queue
 2025-10-22 bump deps
+2025-10-28 add tests
