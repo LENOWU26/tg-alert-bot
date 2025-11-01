@@ -9,3 +9,4 @@
 2025-08-30 guard against None
 2025-09-29 handle empty response
 2025-10-01 drop unused import
+2025-11-01 cache the lookups
