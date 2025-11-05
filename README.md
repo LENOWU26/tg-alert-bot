@@ -9,3 +9,4 @@
 2025-10-28 add tests
 2025-10-30 typo
 2025-11-02 add retry on 429
+2025-11-05 small perf pass
