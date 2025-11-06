@@ -10,3 +10,4 @@
 2025-10-30 typo
 2025-11-02 add retry on 429
 2025-11-05 small perf pass
+2025-11-06 guard against None
