@@ -10,3 +10,4 @@
 2025-09-29 handle empty response
 2025-10-01 drop unused import
 2025-11-01 cache the lookups
+2025-11-30 add tests
