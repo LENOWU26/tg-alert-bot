@@ -5,3 +5,4 @@
 2025-10-27 log the raw payload
 2025-11-30 typo
 2025-12-16 handle empty response
+2025-12-18 docs
