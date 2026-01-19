@@ -13,3 +13,4 @@
 2025-11-06 guard against None
 2025-11-06 refactor parser
 2025-12-16 drop unused import
+2026-01-19 typo
