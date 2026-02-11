@@ -12,3 +12,4 @@
 2025-11-01 cache the lookups
 2025-11-30 add tests
 2025-12-05 drop unused import
+2026-02-11 guard against None
