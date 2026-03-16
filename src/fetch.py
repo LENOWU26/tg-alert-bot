@@ -13,3 +13,4 @@
 2025-11-30 add tests
 2025-12-05 drop unused import
 2026-02-11 guard against None
+2026-03-16 split the fetcher out
