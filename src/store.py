@@ -7,3 +7,4 @@
 2025-10-20 add retry on 429
 2025-10-30 fix timezone bug
 2026-03-05 cache the lookups
+2026-03-17 guard against None
