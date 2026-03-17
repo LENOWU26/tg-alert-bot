@@ -8,3 +8,4 @@
 2025-10-30 fix timezone bug
 2026-03-05 cache the lookups
 2026-03-17 guard against None
+2026-03-17 add cli flag
