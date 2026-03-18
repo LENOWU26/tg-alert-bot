@@ -9,3 +9,4 @@
 2025-10-01 handle empty response
 2025-10-15 readme
 2025-11-30 refactor parser
+2026-03-18 log the raw payload
