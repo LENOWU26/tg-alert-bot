@@ -14,3 +14,4 @@
 2025-11-06 refactor parser
 2025-12-16 drop unused import
 2026-01-19 typo
+2026-03-20 move config to env
