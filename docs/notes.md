@@ -8,3 +8,4 @@
 2025-12-18 docs
 2026-03-05 docs
 2026-03-20 drop unused import
+2026-03-24 add tests
