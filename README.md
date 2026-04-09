@@ -15,3 +15,4 @@
 2025-12-16 drop unused import
 2026-01-19 typo
 2026-03-20 move config to env
+2026-04-09 backoff on failure
