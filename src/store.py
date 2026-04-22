@@ -11,3 +11,4 @@
 2026-03-17 add cli flag
 2026-04-21 bump deps
 2026-04-22 cleanup dead code
+2026-04-22 backoff on failure
