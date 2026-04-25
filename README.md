@@ -17,3 +17,4 @@
 2026-03-20 move config to env
 2026-04-09 backoff on failure
 2026-04-22 guard against None
+2026-04-25 split the fetcher out
