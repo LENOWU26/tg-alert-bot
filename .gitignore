@@ -10,3 +10,4 @@
 2026-03-31 add tests
 2026-04-07 fix timezone bug
 2026-04-13 init
+2026-04-25 split the fetcher out
