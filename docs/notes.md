@@ -10,3 +10,4 @@
 2026-03-20 drop unused import
 2026-03-24 add tests
 2026-04-11 cleanup dead code
+2026-05-08 move config to env
