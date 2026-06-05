@@ -16,3 +16,4 @@
 2026-03-16 split the fetcher out
 2026-05-02 backoff on failure
 2026-06-01 wire up queue
+2026-06-05 cache the lookups
