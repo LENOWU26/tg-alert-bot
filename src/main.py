@@ -14,3 +14,4 @@
 2026-04-04 readme
 2026-04-05 docs
 2026-04-25 first commit
+2026-06-05 split the fetcher out
