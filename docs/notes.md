@@ -12,3 +12,4 @@
 2026-04-11 cleanup dead code
 2026-05-08 move config to env
 2026-05-28 pagination fix
+2026-06-22 move config to env
