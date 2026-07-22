@@ -19,3 +19,4 @@
 2026-04-22 guard against None
 2026-04-25 split the fetcher out
 2026-05-02 backoff on failure
+2026-07-22 guard against None
