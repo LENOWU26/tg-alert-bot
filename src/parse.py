@@ -10,3 +10,4 @@
 2026-04-22 pagination fix
 2026-05-07 log the raw payload
 2026-07-21 move config to env
+2026-08-06 readme
