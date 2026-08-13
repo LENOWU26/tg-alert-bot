@@ -17,3 +17,4 @@
 2026-06-01 reduce noise
 2026-07-19 add tests
 2026-07-22 typo
+2026-08-13 handle empty response
