@@ -15,3 +15,4 @@
 2026-06-22 move config to env
 2026-07-26 init
 2026-08-06 cache the lookups
+2026-08-25 readme
