@@ -13,3 +13,4 @@
 2026-08-06 readme
 2026-08-16 guard against None
 2026-08-21 add retry on 429
+2026-08-25 move config to env
