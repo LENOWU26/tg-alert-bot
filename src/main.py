@@ -16,3 +16,4 @@
 2026-04-25 first commit
 2026-06-05 split the fetcher out
 2026-08-24 cache the lookups
+2026-08-26 add cli flag
