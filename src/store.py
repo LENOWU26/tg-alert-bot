@@ -17,3 +17,4 @@
 2026-07-18 init
 2026-08-22 add tests
 2026-08-22 drop unused import
+2026-09-01 move config to env
