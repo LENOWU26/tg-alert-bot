@@ -19,3 +19,4 @@
 2026-06-05 cache the lookups
 2026-07-19 cleanup dead code
 2026-08-20 fix timezone bug
+2026-09-14 add tests
