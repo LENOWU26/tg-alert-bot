@@ -18,3 +18,4 @@
 2026-08-24 cache the lookups
 2026-08-26 add cli flag
 2026-09-11 init
+2026-09-21 fix timezone bug
