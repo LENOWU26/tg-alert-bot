@@ -15,3 +15,4 @@
 2026-08-21 add retry on 429
 2026-08-25 move config to env
 2026-09-20 split the fetcher out
+2026-09-28 small perf pass
