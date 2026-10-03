@@ -19,3 +19,4 @@
 2026-08-26 add cli flag
 2026-09-11 init
 2026-09-21 fix timezone bug
+2026-10-03 bump deps
