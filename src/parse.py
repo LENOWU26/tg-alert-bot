@@ -18,3 +18,4 @@
 2026-09-28 small perf pass
 2026-09-28 init
 2026-10-07 init
+2026-10-09 bump deps
