@@ -25,3 +25,4 @@
 2026-08-31 reduce noise
 2026-09-08 add retry on 429
 2026-09-27 reduce noise
+2026-10-16 move config to env
