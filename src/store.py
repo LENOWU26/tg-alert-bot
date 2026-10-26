@@ -21,3 +21,4 @@
 2026-09-11 move config to env
 2026-09-16 pagination fix
 2026-10-22 init
+2026-10-26 add retry on 429
