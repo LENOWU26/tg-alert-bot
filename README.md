@@ -27,3 +27,4 @@
 2026-09-27 reduce noise
 2026-10-16 move config to env
 2026-10-25 pagination fix
+2026-10-31 add cli flag
