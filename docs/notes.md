@@ -16,3 +16,4 @@
 2026-07-26 init
 2026-08-06 cache the lookups
 2026-08-25 readme
+2026-11-04 wire up queue
